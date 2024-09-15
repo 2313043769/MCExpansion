@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "item": "minecraft:bread"
+    },
+    "c": {
+      "item": "myvillage:corn"
+    },
+    "m": [
+      {
+        "item": "minecraft:cooked_rabbit"
+      },
+      {
+        "item": "minecraft:cooked_mutton"
+      },
+      {
+        "item": "minecraft:cooked_chicken"
+      },
+      {
+        "item": "minecraft:cooked_beef"
+      },
+      {
+        "item": "minecraft:cooked_porkchop"
+      }
+    ],
+    "w": {
+      "item": "myvillage:cabbage"
+    }
+  },
+  "pattern": [
+    " b ",
+    "wmc",
+    " b "
+  ],
+  "result": {
+    "count": 3,
+    "item": "myvillage:hamburger"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "s": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "pattern": [
+    "s s",
+    "s s"
+  ],
+  "result": {
+    "item": "myvillage:emerald_boots"
+  },
+  "show_notification": true
+}

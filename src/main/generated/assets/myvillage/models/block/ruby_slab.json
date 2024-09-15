@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "myvillage:block/ruby_block",
+    "side": "myvillage:block/ruby_block",
+    "top": "myvillage:block/ruby_block"
+  }
+}

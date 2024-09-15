@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "myvillage:copper_pressure_plate",
+    "myvillage:copper_button",
+    "myvillage:copper_stairs",
+    "myvillage:copper_door",
+    "myvillage:copper_fence_gate",
+    "myvillage:copper_fence",
+    "myvillage:copper_wall",
+    "myvillage:copper_slab",
+    "myvillage:copper_trapdoor"
+  ]
+}

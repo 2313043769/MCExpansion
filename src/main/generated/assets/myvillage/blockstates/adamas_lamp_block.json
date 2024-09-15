@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "myvillage:block/adamas_lamp_block_off"
+    },
+    "lit=true": {
+      "model": "myvillage:block/adamas_lamp_block_on"
+    }
+  }
+}

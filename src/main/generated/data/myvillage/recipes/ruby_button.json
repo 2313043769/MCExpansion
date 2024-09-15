@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "myvillage:ruby"
+    }
+  ],
+  "result": {
+    "item": "myvillage:ruby_button"
+  }
+}

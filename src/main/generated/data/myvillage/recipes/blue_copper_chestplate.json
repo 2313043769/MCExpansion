@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "a": {
+      "item": "myvillage:copper_chestplate"
+    },
+    "s": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "pattern": [
+    " s ",
+    "sas",
+    " s "
+  ],
+  "result": {
+    "item": "myvillage:blue_copper_chestplate"
+  },
+  "show_notification": true
+}

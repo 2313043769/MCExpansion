@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "item": "myvillage:blueberry"
+    },
+    "m": {
+      "item": "minecraft:egg"
+    },
+    "w": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    " b ",
+    "wmw"
+  ],
+  "result": {
+    "count": 3,
+    "item": "myvillage:blueberry_cobbler"
+  },
+  "show_notification": true
+}

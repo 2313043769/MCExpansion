@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "myvillage:block/copper_pressure_plate"
+    },
+    "powered=true": {
+      "model": "myvillage:block/copper_pressure_plate_down"
+    }
+  }
+}

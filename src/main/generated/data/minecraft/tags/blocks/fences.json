@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "myvillage:copper_fence",
+    "myvillage:iron_fence",
+    "myvillage:gold_fence",
+    "myvillage:diamond_fence",
+    "myvillage:emerald_fence",
+    "myvillage:ruby_fence"
+  ]
+}

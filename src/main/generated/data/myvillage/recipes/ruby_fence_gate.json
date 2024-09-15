@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "a": {
+      "item": "myvillage:ruby"
+    },
+    "s": {
+      "item": "myvillage:ruby_block"
+    }
+  },
+  "pattern": [
+    "asa",
+    "asa"
+  ],
+  "result": {
+    "item": "myvillage:ruby_fence_gate"
+  },
+  "show_notification": true
+}

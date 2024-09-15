@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_scallion": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "myvillage:scallion"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:cook_scallion_from_smelting_scallion"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_scallion",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "myvillage:cook_scallion_from_smelting_scallion"
+    ]
+  },
+  "sends_telemetry_event": false
+}

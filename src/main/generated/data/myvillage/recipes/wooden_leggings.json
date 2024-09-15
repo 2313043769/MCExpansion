@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "s": {
+      "item": "myvillage:wooden_plate"
+    }
+  },
+  "pattern": [
+    "sss",
+    "s s",
+    "s s"
+  ],
+  "result": {
+    "item": "myvillage:wooden_leggings"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 150,
+  "experience": 0.4,
+  "group": "cook_tomato",
+  "ingredient": {
+    "item": "myvillage:tomato"
+  },
+  "result": "myvillage:cook_tomato"
+}

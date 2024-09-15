@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "minecraft:egg"
+    },
+    "b": [
+      {
+        "item": "minecraft:red_mushroom"
+      },
+      {
+        "item": "minecraft:brown_mushroom"
+      }
+    ],
+    "c": {
+      "item": "myvillage:tomato"
+    },
+    "d": {
+      "item": "minecraft:sugar"
+    },
+    "e": {
+      "item": "myvillage:corn"
+    },
+    "f": {
+      "item": "minecraft:wheat"
+    },
+    "g": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "pattern": [
+    "agb",
+    "cde",
+    "fff"
+  ],
+  "result": {
+    "count": 3,
+    "item": "myvillage:pizza"
+  },
+  "show_notification": true
+}

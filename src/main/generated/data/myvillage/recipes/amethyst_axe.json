@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "a": {
+      "item": "myvillage:amethyst_ingot"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "aa",
+    "ab",
+    " b"
+  ],
+  "result": {
+    "item": "myvillage:amethyst_axe"
+  },
+  "show_notification": true
+}

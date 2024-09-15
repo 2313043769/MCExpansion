@@ -1,0 +1,217 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_beetroot": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:beetroot"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_blueberry": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "myvillage:blueberry"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_cabbage": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "myvillage:cabbage"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_carrot": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:carrot"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_corn": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "myvillage:corn"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_glow_berries": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:glow_berries"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_green_apple": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "myvillage:green_apple"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_melon_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:melon_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_parsnips": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "myvillage:parsnips"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_pineapple": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "myvillage:pineapple"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_potato": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:potato"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_scallion": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "myvillage:scallion"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_stawberry": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "myvillage:stawberry"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_sweet_berries": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:sweet_berries"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:salad"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_tomato": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "myvillage:tomato"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_glow_berries",
+      "has_sweet_berries",
+      "has_potato",
+      "has_carrot",
+      "has_beetroot",
+      "has_melon_slice",
+      "has_blueberry",
+      "has_cabbage",
+      "has_scallion",
+      "has_parsnips",
+      "has_pineapple",
+      "has_green_apple",
+      "has_stawberry",
+      "has_corn",
+      "has_tomato",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "myvillage:salad"
+    ]
+  },
+  "sends_telemetry_event": false
+}

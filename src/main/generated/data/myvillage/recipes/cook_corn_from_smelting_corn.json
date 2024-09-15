@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 150,
+  "experience": 0.4,
+  "group": "cook_corn",
+  "ingredient": {
+    "item": "myvillage:corn"
+  },
+  "result": "myvillage:cook_corn"
+}

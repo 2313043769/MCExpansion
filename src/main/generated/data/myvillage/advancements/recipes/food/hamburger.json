@@ -1,0 +1,74 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_cabbage": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "myvillage:cabbage"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_cooked_mutton": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:cooked_mutton"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_corn": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "myvillage:corn"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:hamburger"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_bread",
+      "has_cabbage",
+      "has_cooked_mutton",
+      "has_corn",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "myvillage:hamburger"
+    ]
+  },
+  "sends_telemetry_event": false
+}

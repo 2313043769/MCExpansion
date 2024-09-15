@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 150,
+  "experience": 0.4,
+  "group": "cook_scallion",
+  "ingredient": {
+    "item": "myvillage:scallion"
+  },
+  "result": "myvillage:cook_scallion"
+}

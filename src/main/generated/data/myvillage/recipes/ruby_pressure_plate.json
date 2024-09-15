@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "s": {
+      "item": "myvillage:ruby"
+    }
+  },
+  "pattern": [
+    "ss"
+  ],
+  "result": {
+    "item": "myvillage:ruby_pressure_plate"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "a": {
+      "item": "myvillage:copper_leggings"
+    },
+    "s": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "pattern": [
+    " s ",
+    "sas",
+    " s "
+  ],
+  "result": {
+    "item": "myvillage:blue_copper_leggings"
+  },
+  "show_notification": true
+}

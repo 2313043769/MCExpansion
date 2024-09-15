@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "myvillage:block/ruby_block"
+    }
+  }
+}

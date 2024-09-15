@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 150,
+  "experience": 0.4,
+  "group": "rice",
+  "ingredient": {
+    "item": "myvillage:paddy"
+  },
+  "result": "myvillage:rice"
+}

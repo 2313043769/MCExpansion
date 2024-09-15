@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_parsnips": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "myvillage:parsnips"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:cook_parsnips_from_smelting_parsnips"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_parsnips",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "myvillage:cook_parsnips_from_smelting_parsnips"
+    ]
+  },
+  "sends_telemetry_event": false
+}

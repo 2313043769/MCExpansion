@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "s": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "pattern": [
+    "sss",
+    "s s"
+  ],
+  "result": {
+    "item": "myvillage:copper_helmet"
+  },
+  "show_notification": true
+}

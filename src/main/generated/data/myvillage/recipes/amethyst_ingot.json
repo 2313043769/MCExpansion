@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "minecraft:amethyst_block"
+    },
+    "b": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "result": {
+    "count": 2,
+    "item": "myvillage:amethyst_ingot"
+  },
+  "show_notification": true
+}

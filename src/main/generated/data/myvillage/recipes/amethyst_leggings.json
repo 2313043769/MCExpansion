@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "s": {
+      "item": "myvillage:amethyst_ingot"
+    }
+  },
+  "pattern": [
+    "sss",
+    "s s",
+    "s s"
+  ],
+  "result": {
+    "item": "myvillage:amethyst_leggings"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,7 @@
+// 1.20.1	2024-06-17T15:52:01.3251138	MyVillage/Tags for minecraft:block
+204cae33d0740431444d70f2b3553eadbc1ddc25 data\minecraft\tags\blocks\fences.json
+9a12b5cd22c24e2286e81df976e9342735564788 data\minecraft\tags\blocks\walls.json
+af1723f60deb1109e1c0d58983dba1ee58a184ed data\minecraft\tags\blocks\mineable\pickaxe.json
+adbf4e9205a5f7aff6bcfc29c33a30e7f27740fa data\minecraft\tags\blocks\fence_gates.json
+600004722f6a1b9da6bdb0b6cfa670e74c7eb668 data\minecraft\tags\blocks\needs_stone_tool.json
+d046f2c02b2ff560c817edca532f854a61b41635 data\minecraft\tags\blocks\needs_iron_tool.json

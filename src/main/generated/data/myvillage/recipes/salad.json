@@ -1,0 +1,66 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "item": "minecraft:bowl"
+    },
+    "m": [
+      {
+        "item": "minecraft:glow_berries"
+      },
+      {
+        "item": "minecraft:carrot"
+      },
+      {
+        "item": "minecraft:potato"
+      },
+      {
+        "item": "minecraft:sweet_berries"
+      },
+      {
+        "item": "minecraft:beetroot"
+      },
+      {
+        "item": "minecraft:melon_slice"
+      },
+      {
+        "item": "myvillage:blueberry"
+      },
+      {
+        "item": "myvillage:cabbage"
+      },
+      {
+        "item": "myvillage:scallion"
+      },
+      {
+        "item": "myvillage:parsnips"
+      },
+      {
+        "item": "myvillage:pineapple"
+      },
+      {
+        "item": "myvillage:green_apple"
+      },
+      {
+        "item": "myvillage:stawberry"
+      },
+      {
+        "item": "myvillage:corn"
+      },
+      {
+        "item": "myvillage:tomato"
+      }
+    ]
+  },
+  "pattern": [
+    "mmm",
+    "mmm",
+    " b "
+  ],
+  "result": {
+    "count": 3,
+    "item": "myvillage:salad"
+  },
+  "show_notification": true
+}

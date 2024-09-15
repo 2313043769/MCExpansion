@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "s": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "pattern": [
+    "s s",
+    "sss",
+    "sss"
+  ],
+  "result": {
+    "item": "myvillage:copper_chestplate"
+  },
+  "show_notification": true
+}

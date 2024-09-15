@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "myvillage:block/adamas_lamp_block_on"
+  }
+}

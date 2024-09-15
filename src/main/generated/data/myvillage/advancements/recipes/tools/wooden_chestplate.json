@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:wooden_chestplate"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_wooden_plate": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "myvillage:wooden_plate"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_wooden_plate",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "myvillage:wooden_chestplate"
+    ]
+  },
+  "sends_telemetry_event": false
+}

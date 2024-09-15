@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "myvillage",
+	"version": "${version}",
+	"name": "MyVillage",
+	"description": "test",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/myvillage-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.myvillager.MyVillageMod"
+		],
+		"client": [
+			"com.myvillager.MyVillageModClient"
+		],
+		"fabric-datagen": [
+			"com.myvillager.MyVillageModDataGenerator"
+		]
+	},
+	"mixins": [
+		"myvillage-mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

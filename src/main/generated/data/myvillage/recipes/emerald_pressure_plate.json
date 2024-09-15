@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "s": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "pattern": [
+    "ss"
+  ],
+  "result": {
+    "item": "myvillage:emerald_pressure_plate"
+  },
+  "show_notification": true
+}

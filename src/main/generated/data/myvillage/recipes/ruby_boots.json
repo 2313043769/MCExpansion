@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "s": {
+      "item": "myvillage:ruby"
+    }
+  },
+  "pattern": [
+    "s s",
+    "s s"
+  ],
+  "result": {
+    "item": "myvillage:ruby_boots"
+  },
+  "show_notification": true
+}

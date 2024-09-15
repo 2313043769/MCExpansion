@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 150,
+  "experience": 0.4,
+  "group": "cook_parsnips",
+  "ingredient": {
+    "item": "myvillage:parsnips"
+  },
+  "result": "myvillage:cook_parsnips"
+}

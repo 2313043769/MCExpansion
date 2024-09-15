@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "minecraft:water_bucket"
+    },
+    "s": [
+      {
+        "item": "minecraft:coal"
+      },
+      {
+        "item": "minecraft:charcoal"
+      }
+    ]
+  },
+  "pattern": [
+    " s ",
+    "sas",
+    " s "
+  ],
+  "result": {
+    "count": 3,
+    "item": "myvillage:honeycomb_briquette"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "s": {
+      "item": "myvillage:ruby"
+    }
+  },
+  "pattern": [
+    "s s",
+    "sss",
+    "sss"
+  ],
+  "result": {
+    "item": "myvillage:ruby_chestplate"
+  },
+  "show_notification": true
+}

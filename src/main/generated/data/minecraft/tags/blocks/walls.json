@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "myvillage:copper_wall",
+    "myvillage:iron_wall",
+    "myvillage:gold_wall",
+    "myvillage:diamond_wall",
+    "myvillage:emerald_wall",
+    "myvillage:ruby_wall"
+  ]
+}

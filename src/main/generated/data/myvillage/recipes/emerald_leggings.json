@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "s": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "pattern": [
+    "sss",
+    "s s",
+    "s s"
+  ],
+  "result": {
+    "item": "myvillage:emerald_leggings"
+  },
+  "show_notification": true
+}

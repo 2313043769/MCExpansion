@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "s": {
+      "item": "myvillage:ruby"
+    }
+  },
+  "pattern": [
+    "sss",
+    "s s"
+  ],
+  "result": {
+    "item": "myvillage:ruby_helmet"
+  },
+  "show_notification": true
+}

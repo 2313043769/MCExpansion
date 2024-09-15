@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "a": {
+      "item": "minecraft:emerald"
+    },
+    "s": {
+      "item": "minecraft:emerald_block"
+    }
+  },
+  "pattern": [
+    "sas",
+    "sas"
+  ],
+  "result": {
+    "count": 3,
+    "item": "myvillage:emerald_fence"
+  },
+  "show_notification": true
+}

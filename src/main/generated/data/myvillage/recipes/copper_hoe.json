@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "a": {
+      "item": "minecraft:copper_ingot"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "aa",
+    " b",
+    " b"
+  ],
+  "result": {
+    "item": "myvillage:copper_hoe"
+  },
+  "show_notification": true
+}

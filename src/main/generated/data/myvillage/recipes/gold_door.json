@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "s": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "ss",
+    "ss",
+    "ss"
+  ],
+  "result": {
+    "item": "myvillage:gold_door"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "myvillage:emerald_helmet",
+    "myvillage:emerald_chestplate",
+    "myvillage:emerald_leggings",
+    "myvillage:emerald_boots",
+    "myvillage:copper_helmet",
+    "myvillage:copper_chestplate",
+    "myvillage:copper_leggings",
+    "myvillage:copper_boots",
+    "myvillage:blue_copper_helmet",
+    "myvillage:blue_copper_chestplate",
+    "myvillage:blue_copper_leggings",
+    "myvillage:blue_copper_boots",
+    "myvillage:ruby_helmet",
+    "myvillage:ruby_chestplate",
+    "myvillage:ruby_leggings",
+    "myvillage:ruby_boots",
+    "myvillage:wooden_helmet",
+    "myvillage:wooden_chestplate",
+    "myvillage:wooden_leggings",
+    "myvillage:wooden_boots",
+    "myvillage:stone_helmet",
+    "myvillage:stone_chestplate",
+    "myvillage:stone_leggings",
+    "myvillage:stone_boots",
+    "myvillage:amethyst_helmet",
+    "myvillage:amethyst_chestplate",
+    "myvillage:amethyst_leggings",
+    "myvillage:amethyst_boots"
+  ]
+}

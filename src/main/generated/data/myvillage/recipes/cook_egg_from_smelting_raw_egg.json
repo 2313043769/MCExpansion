@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.4,
+  "group": "cook_egg",
+  "ingredient": {
+    "item": "myvillage:raw_egg"
+  },
+  "result": "myvillage:cook_egg"
+}
